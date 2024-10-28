@@ -1,0 +1,34 @@
+
+
+Generate the portrait of a scientific mouse in its laboratory.
+
+I used the tool Image Generation, here is the result.
+
+how do I check all apps serving on port 80 on a windows 11 desktop with powershell
+>
+
+To check which applications are using port 80 on a Windows 11 desktop using PowerShell, you can follow these steps:
+
+    Open PowerShell with administrative privileges. Right-click on the Start menu, select "Windows PowerShell (Admin)" or search for PowerShell in the Start menu, right-click on it and select "Run as administrator."
+
+    In the PowerShell window, type the following command:
+
+netstat -ano
+		
+
+This command will display a list of all active network connections and their associated Process IDs (PIDs).
+
+    Look for the line(s) with port 80 in the "Local Address" column. The PID associated with port 80 will be listed in the same row.
+
+    Note down the PID(s) using port 80.
+
+    Open the Task Manager by pressing Ctrl + Shift + Esc or searching for "Task Manager" in the Start menu.
+
+    Go to the "Details" or "Processes" tab in the Task Manager.
+
+    Locate the application(s) with the PID(s) you noted down in Step 4. The application name should be listed under the "Image Name" or "Name" column.
+
+This process will help you identify which applications are serving on port 80 on your Windows 11 desktop. You can then decide whether to keep them running or terminate them based on your requirements.
+Sources:
+How do I find which program is using port 80 in Windows? favicon
+stackoverflow.co
