@@ -1,0 +1,64 @@
+Characters:
+
+    Lulu (Princess Luminosa) - an immortal, 300-year-old member of the royal court, skilled in healing and magic. She is part of the Papillion race of humanoids and is next in line for the throne. She has been trained in the art of magic and healing from a young age and is known for her exceptional abilities. She is a member of the aristocracy and is well-versed in the ways of the royal court.
+    Niomae - a lower-level angel (Houri) with direct access to the powers of the Goddess, known for her charm, wit, and magic. She is a member of the Houri, a proud and ancient race of angels who are known for their beauty, charm, and magical abilities. She is a troublemaker and is known for playing tricks and pranks on those around her. She is also a skilled martial artist and is not afraid to use her abilities to defend herself.
+    Momohana - a 22-year-old human, owner of a tavern, and a skilled vintner and martial artist. She is a hard worker and is dedicated to her craft, but she is also a free spirit who enjoys partying and having a good time. She is a member of the human race and is well-liked by the people of Freyhaven.
+    Anastasia - a beastfolk, an aristocratic dog girl humanoid, struggling to find her place in the world. She is a member of the beastfolk, a group of humanoid creatures who are often shunned and discriminated against by the rest of society. She is a kind and gentle soul who is searching for a sense of belonging and purpose.
+    Kai - a high elf, guardian of Yggdrasil, the life tree that binds the three worlds together. She is a member of the elven race and is known for her wisdom, courage, and magical abilities. She is a guardian of the natural world and is dedicated to protecting the balance of nature.
+    Cerberus - a monster, right-hand warrior of Hades and Persephone, rulers of the underworld. She is a fierce and powerful creature who is feared by many, but she is also a loyal and dedicated warrior who will stop at nothing to protect her masters and the underworld.
+    Amelia - a young woman, seeking to start a resistance against the mad monarch. She is a member of the human race and is determined to fight against the injustices of the mad monarch's regime. She is a brave and courageous individual who is not afraid to take risks and challenge the status quo.
+    Aodhagán - a mage, student at the Academy of Arcane Arts, working on combining magic and technology. He is a member of the human race and is known for his intelligence, curiosity, and magical abilities. He is a student at the prestigious Academy of Arcane Arts and is determined to make a name for himself in the world of magic.
+    Viktoryia - a vampire, thousands of years old, with a network of allies in Freyhaven. She is a member of the vampire race and is known for her beauty, charm, and supernatural abilities. She is a ancient and powerful creature who has lived for thousands of years and has a deep understanding of the world and its workings.
+    Nyx - a character mentioned, but not fully described. She is a mysterious and enigmatic figure who is shrouded in mystery and intrigue.
+    Fiona - a character mentioned, but not fully described. She is a kind and gentle soul who is loved by all who know her.
+    Vivienne - a character mentioned, but not fully described. She is a brilliant and inventive individual who is known for her intelligence and creativity.
+    Muskrat - a character allegory for Elon Musk, a cunning and ruthless individual who seeks to exploit Aodhagán and Vivienne's discoveries for personal gain. He is a master manipulator who will stop at nothing to achieve his goals and increase his power and wealth.
+    Vlad - a character allegory for Vladimir Putin, a warlock and billionaire who has risen to power through magic and manipulation. He is a ruthless and cunning individual who will do whatever it takes to maintain his power and control over the world.
+    Inari - a dark angel sent by Hades and Persephone to investigate the goings-on in Freyhaven. She is a mysterious and powerful figure who is feared by many and is known for her beauty and magical abilities.
+    Natasha - a character mentioned, but not fully described. She is a kind and gentle soul who is loved by all who know her.
+    Amaryllis - a character mentioned, but not fully described. She is a beautiful and charming individual who is known for her intelligence and creativity.
+    Dahlia - a character mentioned, but not fully described. She is a sweet and gentle soul who is loved by all who know her.
+    Momo - a character mentioned, but not fully described. She is a kind and gentle individual who is known for her intelligence and creativity.
+    Miaka - a character mentioned, but not fully described. She is a beautiful and charming individual who is known for her intelligence and magical abilities.
+
+Places:
+
+    Terra - the main world, with three levels: the underworld, Terra (the earth), and the heavens. It is a vast and wondrous place, full of magic and mystery.
+    Freyhaven - a kingdom in Terra, known for its diversity and freedom, but currently ruled by a mad monarch. It is a bustling and vibrant city, full of people from all walks of life.
+    Papiliona Silvana (Papiliona) - a forest, home to the Papillion race of humanoids. It is a beautiful and enchanted place, full of magic and wonder.
+    Niflheim - a location mentioned, possibly a separate world or realm. It is a mysterious and unknown place, shrouded in mystery and intrigue.
+    The Wastelands - a harsh environment where the mad monarch exiles non-registered beastfolk. It is a desolate and unforgiving place, where only the strongest and most resourceful can survive.
+    The Academy of Arcane Arts - a school for mages, located in Freyhaven. It is a prestigious and respected institution, known for its high standards and rigorous curriculum.
+    Yggdrasil - the life tree that binds the three worlds together. It is a powerful and ancient tree, with deep roots and far-reaching branches.
+    The Underworld - a realm ruled by Hades and Persephone, where the dead reside. It is a dark and mysterious place, full of shadows and secrets.
+    The Heavens - a realm of light and beauty, where the gods and goddesses reside. It is a place of wonder and magic, where the air is sweet with the scent of ambrosia.
+
+Lore:
+
+    The Thousand Year War - a past conflict that affected the world of Terra. It was a time of great upheaval and change, where the very fabric of reality was torn apart.
+    The mad monarch's regime - currently ruling Freyhaven, known for its cruelty and oppression. The monarch is a ruthless and power-hungry individual who will stop at nothing to maintain his control over the city.
+    The Goddess - a deity mentioned, possibly worshipped by some characters. She is a powerful and mysterious figure, with deep roots in the mythology of Terra.
+    Magic and technology - Aodhagán is working on combining these two forces to create something new. He believes that by merging magic and technology, he can create something truly revolutionary and powerful.
+    The Houri - a lower-level angel, Niomae's race. They are a proud and ancient race of angels, known for their beauty, charm, and magical abilities.
+    The Papillion - a humanoid race, Lulu's people. They are a kind and gentle race, known for their intelligence and creativity.
+    Beastfolk - a group of humanoid creatures, including Anastasia. They are often shunned and discriminated against by the rest of society, but they are a proud and resilient people.
+    Vampires - a supernatural creature, Viktoryia's kind. They are ancient and powerful beings, with deep roots in the mythology of Terra.
+    Warlocks - a type of magic user, Vlad's kind. They are individuals who have mastered the dark arts, and are feared and respected by many.
+    The Three Worlds - Terra, the underworld, and the heavens, connected by Yggdrasil. They are a complex and interconnected system, where the balance of nature is maintained by the life tree.
+
+Events:
+
+    The Thousand Year War - a past conflict that affected the world of Terra. It was a time of great upheaval and change, where the very fabric of reality was torn apart.
+    The rise of the mad monarch - a current event, with the monarch ruling Freyhaven with an iron fist. He is a ruthless and power-hungry individual who will stop at nothing to maintain his control over the city.
+    The exile of non-registered beastfolk - a current event, with the mad monarch sending them to the Wastelands. It is a cruel and heartless act, where innocent people are forced to suffer and die in the harsh environment of the Wastelands.
+    Aodhagán and Vivienne's discoveries - a current event, with the two creating innovative technologies that combine magic and steam power. They are working on something truly revolutionary, and their discoveries have the potential to change the world.
+    Muskrat and Vlad's conspiracy - a current event, with the two seeking to exploit Aodhagán and Vivienne's discoveries for personal gain. They are ruthless and cunning individuals who will stop at nothing to achieve their goals and increase their power and wealth.
+    Inari's investigation - a current event, with the dark angel sent by Hades and Persephone to investigate the goings-on in Freyhaven. She is a mysterious and powerful figure, with a deep understanding of the world and its workings.
+
+Themes:
+
+    Power and corruption - the mad monarch's regime and Muskrat's actions demonstrate the corrupting influence of power. Those who seek power and wealth will stop at nothing to achieve their goals, even if it means harming others.
+    Exploitation of technology - Aodhagán and Vivienne's discoveries are sought after by those who wish to exploit them for personal gain. The pursuit of knowledge and innovation is a noble goal, but it can also be used for nefarious purposes.
+    Freedom and oppression - the mad monarch's regime is oppressive, while the characters seek to fight for freedom and justice. The struggle for freedom and equality is a timeless and universal theme, and it is a central part of the story.
+    Magic and technology - the combination of these two forces has the potential to create something truly revolutionary and powerful. However, it also raises questions about the ethics and consequences of such a combination.
+    Good and evil - the characters are complex and multifaceted, with motivations and actions that are not always clear-cut. The line between good and evil is often blurred, and the characters must navigate a morally ambiguous world.
